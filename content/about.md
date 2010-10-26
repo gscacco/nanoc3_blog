@@ -1,45 +1,18 @@
 ---
-title: About nanoc3_blog
+title: Informazioni
 ---
 
-# About This Site
+# Informazioni sul sito
 
-nanoc3\_blog is a [nanoc3](http://nanoc.stoneship.org) blog starter kit for Ruby hackers.
-The blog compiles into pure HTML. No javascript (keeping it simple). Ultra-fast and light. No database. No headaches. Host anywhere.
+Questo sito è stato realizzato utilizzando [nanoc3\_blog](http://github.com/mgutz/nanoc3_blog).
+nanoc3\_blog è a sua volta basato su [nanoc3](http://nanoc.stoneship.org).
 
-Source is available from my [nanoc3_blog](http://github.com/mgutz/nanoc3_blog) github repository.
-Source is provided under the [FreeBSD License](/license.html).
+## Informazioni sull'autore
 
-Features: 
+Il mio nome è Gianluca Scacco e lavoro nel I.T. dal 1996.
+Se volete potete seguire i miei post sul [blog](http://gscsite.atwebpages.com).
 
-- Minimalist CSS site
-- Uses file extension to determine filter:
-  `{'.erb' => :erb, '.md' => :rdiscount, '.markdown' => :rdiscount,'.haml' => :haml, '.sass' => :sass}`
-- Configurable 0..n full articles on the front page
-- Configurable 0..n excerpted links on the front page
-- Tagging / generation of tag pages
-- Generates tags list
-- Generates archives list
-- Generates navigation links to articles by date
-- [DISQUS](http://www.disqus.com) commenting integration (optional)
-- RSS/atom feed
-- Generates sitemap.xml for SEO
+## Ringraziamenti
 
-Interested? See [Getting Started With nanoc3_blog](/2010/01/15/getting_started_with_nanoc3_blog.html).
+Grazie a [Denis Defreyne](http://stoneship.org/about/) autore di nanoc.
 
-## About The Author
-
-My name is Mario Gutierrez aka `mgutz`. I like minimal-styled blogs.
-
-Visit [my blog](http://mgutz.com)
-
-## Thanks
-
-Thanks to everyone in the 
-[nanoc group](http://groups.google.com/group/nanoc)
-for sample code.
-
-Thanks to [Denis Defreyne](http://stoneship.org/about/), author of nanoc.
-
-I tried [other compilers](http://www.ruby-toolbox.com/categories/static_website_generation.html)
-and chose nanoc3 for its architecture.
