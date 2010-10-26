@@ -16,14 +16,14 @@ deploy:
     options: ['-ave ssh', '--exclude=.DS_Store', '--exclude=*~']
 
 # domain to which this site is deployed
-base_url: http://nanoc-blog-kit.mgutz.com
+base_url: http://gscsite.atwebpages.com
 
 google_analytics:
-  domain: mgutz.com
-  site_id: UA-9655468-1
+  domain: gscsite.atwebpages.com
+  site_id: 
 
 # currently used by logo
-site_name: nanoc3_blog
+site_name: GSC
 
 # number of full featured posts to display on front
 featured_count: 0
@@ -35,5 +35,5 @@ excerpt_count: 6
 other_articles_max: 3
 
 # DISQUS Site Shortname. Comment out to disable.
-disqus_shortname: nanoc3-blog
+#disqus_shortname: nanoc3-blog
 
