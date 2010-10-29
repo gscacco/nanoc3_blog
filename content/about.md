@@ -1,8 +1,9 @@
 ---
-title: Informazioni
+title: Il mio blog
 ---
 
-# Informazioni sul sito
+# Il mio sito
+Questa è una bozza del mio nuovo sito web
 
 Questo sito è stato realizzato utilizzando [nanoc3\_blog](http://github.com/mgutz/nanoc3_blog).
 nanoc3\_blog è a sua volta basato su [nanoc3](http://nanoc.stoneship.org).
